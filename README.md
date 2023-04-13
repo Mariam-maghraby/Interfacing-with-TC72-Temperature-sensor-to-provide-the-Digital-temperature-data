@@ -9,3 +9,11 @@ The Cooling controller works based on the following parameters:
 - PWM duty cycle range: 0 to 0.73
 - Set temperature is 30.
 - Values of the PID controller arguments are Kp = 0.1, Ki = 0.01 and Kd = 0
+
+![image](https://user-images.githubusercontent.com/61349498/231752257-d46ac114-d37f-4176-9bef-c3369ca351fd.png)
+
+
+
+
+https://user-images.githubusercontent.com/61349498/231751922-f70aeda9-912c-4a1c-86ae-edf76ba7772b.mp4
+
