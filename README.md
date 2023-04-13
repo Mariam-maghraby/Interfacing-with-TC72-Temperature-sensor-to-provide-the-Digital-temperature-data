@@ -10,6 +10,8 @@ The Cooling controller works based on the following parameters:
 - Set temperature is 30.
 - Values of the PID controller arguments are Kp = 0.1, Ki = 0.01 and Kd = 0
 
+<br>
+
 ![image](https://user-images.githubusercontent.com/61349498/231752257-d46ac114-d37f-4176-9bef-c3369ca351fd.png)
 
 
